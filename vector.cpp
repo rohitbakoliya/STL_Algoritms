@@ -19,7 +19,7 @@ void some_another(const vector<int> &v)
 {
 	//there also new copy of vector is not created
 }
-/*template is pre-defined like this ...*/
+/*template was pre-defined like this ... for pairs*/
 
 // template<typename x , typename y> struct pair{
 // 	x first;
